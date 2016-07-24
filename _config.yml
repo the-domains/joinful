@@ -1,0 +1,28 @@
+name: Joinful
+favicon: null
+layout_spectrum: 0.83821109845303
+typography_spectrum: 0.1551143154501915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7844091500155628
+  lightness: 0.9291716516017914
+  saturation: 0.1274768707808107
+  rhythmicContrast: 0.5744260854553431
+purpose: []
